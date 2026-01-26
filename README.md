@@ -1,4 +1,4 @@
-# 📊 TOPSIS Implementation (from scratch)
+# 📊 TOPSIS Implementation
 
 🔗 *Web Service:* [Click here to view](https://github.com/Devansh-Chhabra/TOPSIS-WEB-SERVICE)
 
